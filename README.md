@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wassaybajwa
-- 👀 I’m interested in ASP.Net MVC project development.
-- 🌱 I’m currently learning and working on few projects in ASP.Net 5
-- 💞️ I’m looking to collaborate on ...any ASP.Net projects. .NetFramework, .NetCore, .Net5. 
+- 👀 I’m in ASP.Net MVC project development.
+- 🌱 I’m currently and working on few projects in ASP.Net 5
+- 💞️ I’m looking to collaborate on ...any ASP.Net projects. .NetFramework, .NetCore, .Net5, Node.jc, Html/Css/js 
 - 📫 How to reach me ...wassaybajwa@hotmail.com
 Thank you
 
